@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python & Jupyter cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS metadata
+.DS_Store
